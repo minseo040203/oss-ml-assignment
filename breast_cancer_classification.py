@@ -29,7 +29,7 @@ def main():
 
     # 3. 머신러닝 모델 학습
     model = RandomForestClassifier(
-        n_estimators=100,
+        n_estimators=200,
         random_state=42
     )
 
